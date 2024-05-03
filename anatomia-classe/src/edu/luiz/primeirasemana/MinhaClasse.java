@@ -1,3 +1,5 @@
+package edu.luiz.primeirasemana;
+
 public class MinhaClasse {
     // variavel constante (const nomeVariavel) = final tipoVariavel (final String nomeVariavel)
 

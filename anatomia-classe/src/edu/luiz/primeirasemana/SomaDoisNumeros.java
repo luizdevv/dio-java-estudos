@@ -1,3 +1,5 @@
+package edu.luiz.primeirasemana;
+
 public class SomaDoisNumeros {
 
     public static void main (String[] args) {
